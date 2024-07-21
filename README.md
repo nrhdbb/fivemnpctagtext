@@ -9,4 +9,6 @@
 
 - TARUH FOLDER DAN EXTRAX
 - ensure fivemnpctagtext di file server.cfg
+# Dependencies
 
+* [qbcore framework](https://github.com/qbcore-framework)
